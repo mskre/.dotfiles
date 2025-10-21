@@ -1,0 +1,8 @@
+include "%L"
+
+<Multi_key> <0> <2> <u> : "æ" U00E6
+<Multi_key> <0> <2> <t> : "å" U00E5
+<Multi_key> <0> <3> <c> : "ø" U00F8
+<Multi_key> <0> <1> <y> : "Æ" U00C6
+<Multi_key> <0> <1> <x> : "Å" U00C5
+<Multi_key> <0> <2> <g> : "Ø" U00D8

@@ -1,0 +1,23 @@
+
+add_newline = false
+
+format = "$directory$git_branch$character"
+
+[username]
+show_always = true        
+format = "[$user](bold red)"
+style_user = "bold yellow"
+style_root = "bold red"
+
+[hostname]
+ssh_only = false
+style = "bold red"
+format = "[$hostname](bold red)"
+
+[directory]
+style = "bold red"
+truncation_length = 3
+
+[character]
+success_symbol = "[❯](bold green)"
+error_symbol = "[❯](bold red)"
